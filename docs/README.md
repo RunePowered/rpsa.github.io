@@ -23,38 +23,3 @@ If you are an **individual creator**, you can purchase a single license. If you 
 # Showcase
 
 Checkout results of using our plugin!
-
-<div class="img-block">
-    <div class="img-row">
-        <div class="img-col"><img src="img/1-5-0/alone-night.jpg"/></div>
-        <div class="img-col"><img src="img/1-4-0/up-close.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/1-5-0/penumbra.jpg"/></div>
-        <div class="img-col"><img src="img/1-5-0/valley-of-mist.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/1-5-0/mallow.jpg"/></div>
-        <div class="img-col"><img src="img/1-5-0/ocean.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/celestial_bodies/moon.jpg"/></div>
-        <div class="img-col"><img src="img/atmosphere/with_isotropic_fog.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/1-4-0/purple-moon.jpg"/></div>
-        <div class="img-col"><img src="img/1-5-0/jupiter.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/1-4-0/magick.jpg"/></div>
-        <div class="img-col"><img src="img/1-4-0/city-volumetric.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/stars/banner_2.jpg"/></div>
-        <div class="img-col"><img src="img/stars/texture_stars.jpg"/></div>
-    </div>
-    <div class="img-row">
-        <div class="img-col"><img src="img/1-5-0/multiple.jpg"/></div>
-        <div class="img-col"><img src="img/planet/earth_night.jpg"/></div>
-    </div>
-</div>
